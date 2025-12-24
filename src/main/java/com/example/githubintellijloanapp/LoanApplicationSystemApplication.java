@@ -8,6 +8,8 @@ public class LoanApplicationSystemApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LoanApplicationSystemApplication.class, args);
+        System.out.println("My App is Running");
     }
+
 
 }
